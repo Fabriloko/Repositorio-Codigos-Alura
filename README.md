@@ -1,2 +1,2 @@
 # Alura-Estatistica-Basica
-Repositório para os materiais desenvolvidos e compartilhados durante o curso de Estatística Básica do Alura.
+Repositório para os materiais desenvolvidos e compartilhados durante o Plano de Estudos de Estatística Básica do Alura.
